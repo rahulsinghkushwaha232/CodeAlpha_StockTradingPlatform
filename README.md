@@ -270,7 +270,9 @@ This format provides transparent human readability, cross-platform stability, an
 ---
 
 ## Author & Submission Details
+- **Author**: Rahul Singh Kushwaha
 - **Internship**: CodeAlpha Java Programming Internship
 - **Project**: Stock Trading Platform
-- **Repository**: `CodeAlpha_StockTradingPlatform`
+- **Repository**: [CodeAlpha_StockTradingPlatform](https://github.com/rahulsinghkushwaha232/CodeAlpha_StockTradingPlatform)
+- **GitHub**: [rahulsinghkushwaha232](https://github.com/rahulsinghkushwaha232)
 - **Language**: Java (JDK 17)
