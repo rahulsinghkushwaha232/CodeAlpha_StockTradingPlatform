@@ -270,6 +270,7 @@ This format provides transparent human readability, cross-platform stability, an
 ---
 
 ## Author & Submission Details
+- **Contributor**: [Rahul Singh Kushwaha](https://github.com/rahulsinghkushwaha232)
 - **Author**: Rahul Singh Kushwaha
 - **Internship**: CodeAlpha Java Programming Internship
 - **Project**: Stock Trading Platform
