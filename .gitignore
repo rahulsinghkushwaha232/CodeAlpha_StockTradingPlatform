@@ -1,0 +1,13 @@
+# Compiled class files
+bin/
+*.class
+
+# Persistent runtime data
+portfolio.dat
+
+# IDE and OS metadata
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
